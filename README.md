@@ -10,12 +10,12 @@ MBID is an idea generation system for the generation of unique multifunctional a
 
 ## BIKAS
 
-<img src="image.png" width="200" height="100">
+<img src="image-2.png" width="200" height="100">
 
 <figure>
-    <img src="/assets/images/albuquerque.jpg"
-         alt="Albuquerque, New Mexico">
-    <figcaption>A single track trail outside of Albuquerque, New Mexico.</figcaption>
+    <img src="image-2.png"
+         alt="BIKAS">
+    <figcaption>Abstraction of biological features at their embodiment function.</figcaption>
 </figure>
 
 
