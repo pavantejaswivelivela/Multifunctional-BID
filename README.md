@@ -4,7 +4,7 @@ MBID is an idea generation system for the generation of unique multifunctional a
 2. Domain Integrated Design (DID): A method based on classification and integration of biological features based on their geometric designations.
 3. Meta-level design parameters: Quantitative parameters for the selection between the biological features that exhibit the same function.
 4. Expandable Domain Integration Design (xDID): An extension of DID and a model representation of the ideation system.
-5. Generation of unique multifunctional bio-inspired advanced conceptual designs for verification of the system.
+5. Generation of unique multifunctional bio-inspired conceptual designs for verification of the system.
 
 ## How does this work?
 
@@ -26,13 +26,19 @@ MBID is an idea generation system for the generation of unique multifunctional a
 
 ## Meta-level design parameters
 
+## Novel unique multifunctional bio-inspired conceptual designs
 
+<figure>
+    <img src="Image-5.png"
+         alt="BIKAS">
+    <figcaption>Abstraction of biological features at their embodiment function.</figcaption>
+</figure>
 
 
 #### Creators
 - This research was carried out by Pavan Tejaswi Velivela, under the supervision of Prof. Yaoyao Fiona Zhao, in the Mechanical Engineering department @ McGill University.
 - The work is NaturalSciences and Engineering Research Council of Canada Discovery Grant RGPIN-2018-05971 and the McGill Engineering Doctoral Award (MEDA).
 
-#### Correspondence0
+#### Contact
 - For all queries related to the publications and potential collaborations contact: Prof. Yaoyao Fiona Zhao (Email: <yaoyao.zhao@mcgill.ca> or Visit Additive Design and Manufacturing Laboratory (ADML) <https://adml.lab.mcgill.ca/>
 - Pavan Tejaswi Velivela (Email: <pavan.velivela@mail.mcgill.ca>; <pavan.velivela90@gmail.com>)
