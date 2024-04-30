@@ -10,11 +10,14 @@ MBID is an idea generation system for generating unique multifunctional and mult
 
 ### BIKAS
 
+BIKAS abbreviated as Bio-inspired Knowledge Acquisition and Simulacrum is a knowledge database developed to represent functions exhibited by biological features at their **embodiment-level** i.e. at their physical structure level. The function exhibited by the biological features is defined as a combination of integrated structure and structural strategy. Where the integrated structure here is defined as the multiscale structure.    
 <figure>
     <img src="Image-2.png"
          alt="BIKAS">
     <figcaption>Abstraction of biological feature (Lotus Leaf) at its embodiment level.</figcaption>
 </figure>
+
+###### Publication
 
 ### DID and x DID
 
@@ -24,7 +27,11 @@ MBID is an idea generation system for generating unique multifunctional and mult
     <figcaption>Abstraction of biological features at their embodiment function.</figcaption>
 </figure>
 
+###### Publication
+
 ### Meta-level design parameters
+
+###### Publication
 
 ### Novel unique multifunctional bio-inspired conceptual designs
 
@@ -34,12 +41,13 @@ MBID is an idea generation system for generating unique multifunctional and mult
     <figcaption>Abstraction of biological features at their embodiment function.</figcaption>
 </figure>
 
+###### Publications
 
 ##### Authors
 
 This research was carried out by Pavan Tejaswi Velivela, under the supervision of Prof. Yaoyao Fiona Zhao, in the Mechanical Engineering department at McGill University.
   
-#### Funding
+##### Funding
 
 The work is NaturalSciences and Engineering Research Council of Canada Discovery Grant RGPIN-2018-05971 and the McGill Engineering Doctoral Award (MEDA).
   
