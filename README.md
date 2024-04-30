@@ -13,7 +13,7 @@ MBID is an idea generation system for the generation of unique multifunctional a
 <img src="Image-2.png" width="200" height="100">
 
 <figure>
-    <img src="Image-2.png"
+    <img src="Image-2.png" width = "2000" height = "2000"
          alt="BIKAS">
     <figcaption>Abstraction of biological features at their embodiment function.</figcaption>
 </figure>
