@@ -10,10 +10,8 @@ MBID is an idea generation system for the generation of unique multifunctional a
 
 ## BIKAS
 
-<img src="Image-2.png" width="200" height="100">
-
 <figure>
-    <img src="Image-2.png" width = "500" height = "500"
+    <img src="Image-2.png"
          alt="BIKAS">
     <figcaption>Abstraction of biological features at their embodiment function.</figcaption>
 </figure>
