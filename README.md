@@ -1,4 +1,3 @@
-### Multifunctional Bio-Inspired Design (MBID)
 MBID is an idea generation system for generating unique multifunctional and multiscale conceptual designs. The Idea generation system comprises five components namely
 1. **BIKAS**: Bio-inspired Knowledge Acquisition and Simulacrum, a knowledge database for abstraction of functions exhibited by biological features.
 2. **Domain Integrated Design (DID)**: A method based on classification and integration of biological features based on their geometric designations.
@@ -6,7 +5,9 @@ MBID is an idea generation system for generating unique multifunctional and mult
 4. **Expandable Domain Integration Design (xDID)**: An extension of DID and a model representation of the ideation system.
 5. **Verification**: Generation of unique multifunctional bio-inspired conceptual designs for verification of the system.
 
-## How does this work?
+### How does this work?
+
+
 
 ### BIKAS
 
@@ -17,7 +18,7 @@ BIKAS abbreviated as Bio-inspired Knowledge Acquisition and Simulacrum is a know
     <figcaption>Abstraction of biological feature (Lotus Leaf) at its embodiment level.</figcaption>
 </figure>
 
-###### Publication
+##### Publication
 
 ### DID and x DID
 
@@ -27,11 +28,11 @@ BIKAS abbreviated as Bio-inspired Knowledge Acquisition and Simulacrum is a know
     <figcaption>Abstraction of biological features at their embodiment function.</figcaption>
 </figure>
 
-###### Publication
+##### Publication
 
 ### Meta-level design parameters
 
-###### Publication
+##### Publication
 
 ### Novel unique multifunctional bio-inspired conceptual designs
 
@@ -41,7 +42,7 @@ BIKAS abbreviated as Bio-inspired Knowledge Acquisition and Simulacrum is a know
     <figcaption>Abstraction of biological features at their embodiment function.</figcaption>
 </figure>
 
-###### Publications
+##### Publications
 
 ##### Authors
 
