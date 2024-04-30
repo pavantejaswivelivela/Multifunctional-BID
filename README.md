@@ -13,11 +13,16 @@ MBID is an idea generation system for the generation of unique multifunctional a
 <figure>
     <img src="Image-2.png"
          alt="BIKAS">
-    <figcaption>Abstraction of biological features at their embodiment function.</figcaption>
+    <figcaption>Abstraction of biological feature (Lotus Leaf) at its embodiment level.</figcaption>
 </figure>
 
-
 ## DID and x DID
+
+<figure>
+    <img src="Image-4.png"
+         alt="BIKAS">
+    <figcaption>Abstraction of biological features at their embodiment function.</figcaption>
+</figure>
 
 ## Meta-level design parameters
 
