@@ -33,5 +33,6 @@ MBID is an idea generation system for the generation of unique multifunctional a
 - This research was carried out by Pavan Tejaswi Velivela, under the supervision of Prof. Yaoyao Fiona Zhao, in the Mechanical Engineering department @ McGill University.
 - The work is NaturalSciences and Engineering Research Council of Canada Discovery Grant RGPIN-2018-05971 and the McGill Engineering Doctoral Award (MEDA).
 
-#### Correspondence
-- For all queries related to the publications and potential collaborations contact: Prof. Yaoyao Fiona Zhao.
+#### Correspondence0
+- For all queries related to the publications and potential collaborations contact: Prof. Yaoyao Fiona Zhao (Email: <yaoyao.zhao@mcgill.ca> or Visit Additive Design and Manufacturing Laboratory (ADML) <https://adml.lab.mcgill.ca/>
+- Pavan Tejaswi Velivela (Email: <pavan.velivela@mail.mcgill.ca>; <pavan.velivela90@gmail.com>)
