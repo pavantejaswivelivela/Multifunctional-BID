@@ -28,7 +28,9 @@ BIKAS abbreviated as Bio-inspired Knowledge Acquisition and Simulacrum is a know
     <figcaption>Abstraction of biological features at their embodiment function.</figcaption>
 </figure>
 
-##### Publication
+##### Publications
+1. Velivela, P.T. and Zhao, Y.F., 2022. A Comparative Analysis of the State-of-the-Art Methods for Multifunctional Bio-Inspired Design and an Introduction to Domain Integrated Design (DID). Designs, 6(6), p.120.
+2. 
 
 ### Meta-level design parameters
 
