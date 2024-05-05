@@ -60,4 +60,5 @@ This research work is supported by the Natural Sciences and Engineering Research
 - Pavan Tejaswi Velivela (Email: <pavan.velivela@mail.mcgill.ca>; <pavan.velivela90@gmail.com>)
 
 
-<h5> &copy; Pavan Tejaswi Velivela @ ADML, McGill Univesity 2024 </h5> 
+<h5> &copy; 2024 Pavan Tejaswi Velivela. All rights reserved </h5>
+The land I work at is situated on the traditional territory of the Kanien’kehà:ka, a place which has long served as a site of meeting and exchange amongst many First Nations including the Kanien’kehá:ka of the Haudenosaunee Confederacy, Huron/Wendat, Abenaki, and Anishinaabeg.
