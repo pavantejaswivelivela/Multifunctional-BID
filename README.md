@@ -52,7 +52,7 @@ This research was carried out by Pavan Tejaswi Velivela, under the supervision o
   
 ##### Funding
 
-The work is NaturalSciences and Engineering Research Council of Canada Discovery Grant RGPIN-2018-05971 and the McGill Engineering Doctoral Award (MEDA).
+This research work is supported by the Natural Sciences and Engineering Research Council of Canada Discovery Grant RGPIN-2018-05971 and MEDA (McGill Engineering Doctoral Award).
   
 ##### Contact
 
