@@ -5,10 +5,6 @@ MBID is an idea generation system for generating unique multifunctional and mult
 4. **Expandable Domain Integration Design (xDID)**: An extension of DID and a model representation of the ideation system.
 5. **Verification**: Generation of unique multifunctional bio-inspired conceptual designs for verification of the system.
 
-### How does this work?
-
-
-
 ### BIKAS
 
 BIKAS abbreviated as Bio-inspired Knowledge Acquisition and Simulacrum is a knowledge database developed to represent functions exhibited by biological features at their **embodiment-level** i.e. at their physical structure level. The function exhibited by the biological features is defined as a combination of integrated structure and structural strategy. Where the integrated structure here is defined as the multiscale structure.    
@@ -35,6 +31,8 @@ BIKAS abbreviated as Bio-inspired Knowledge Acquisition and Simulacrum is a know
 ### Meta-level design parameters
 
 ##### Publication
+
+### How does this work?
 
 ### Novel unique multifunctional bio-inspired conceptual designs
 
