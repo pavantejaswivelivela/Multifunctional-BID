@@ -1,4 +1,4 @@
-MBID is an idea generation system for generating unique multifunctional and multiscale conceptual designs. The Idea generation system comprises five components namely
+**MBID** is an idea generation system for generating unique multifunctional and multiscale conceptual designs. The Idea generation system comprises five components namely
 1. **BIKAS**: Bio-inspired Knowledge Acquisition and Simulacrum, a knowledge database for abstraction of functions exhibited by biological features.
 2. **Domain Integrated Design (DID)**: A method based on classification and integration of biological features based on their geometric designations.
 3. **Meta-level design parameters**: Quantitative parameters for the selection between the biological features that exhibit the same function.
