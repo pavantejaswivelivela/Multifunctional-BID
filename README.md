@@ -58,10 +58,9 @@ Meta-level design parameters are quantitative parameters that aid in the selecti
 
 Based on the functional design requirements, biological features (multiscale structures) from different domains are combined to generate novel unique multifunctional, and multiscale bio-inspired conceptual designs.
 1. A combination of Kingfisher’s beak from the cross-sections domain and barbs on the porcupine quill from the Surfaces domain resulted in the generation of a painless suture pin/leg design.
-2. 
+2. A combination of sharkskin and dolphin skin from the surface domain and honeycomb structure from the cellular structures domain resulted in the generation of skins for effective drag reduction and reduction in weight.
 3.	A combination of Camel turbinates from the cross-section domain and micro-bumps on the Namib desert beetle from the surface domain resulted in the generation of structures for effective heat transfer and low-pressure drop potentially used in aerospace applications.
 4.	A combination of woodpecker’s beak and pomelo peel from the cellular structures domain and snakeskin from the domain of the surface resulted in the generation of a non-pneumatic tire design for effective impact resistance and friction management.
-5.	A combination of sharkskin and dolphin skin from the surface domain and honeycomb structure from the cellular structures domain resulted in the generation of skins for effective drag reduction and reduction in weight.
 
 <figure>
     <img src="Image-5.png"
@@ -72,9 +71,9 @@ Based on the functional design requirements, biological features (multiscale str
 ##### Related Publications
 
 1. Velivela, P.T., Letov, N., Liu, Y. and Zhao, Y.F., 2021. Application of domain integrated design methodology for bio-inspired design-a case study of suture pin design. Proceedings of the Design Society, 1, pp.487-496.  DOI: 10.1017/pds.2021.49
-2. Sarabhai S, Velivela PT, Zhao YF, Sanchez F, Kibsey M. Comparative Study of the Flow and Thermal Characteristics of Non-Stochastic Lattice and Bio-Inspired Multi-Scale Structures for Gas Turbine Engine Applications. InTurbo Expo: Power for Land, Sea, and Air 2023 Jun 26 (Vol. 87066, p. V11BT23A011). American Society of Mechanical Engineers. DOI: https://doi.org/10.1115/GT2023-103790
-3. Velivela, P.T., Letov, N., Kong, L. and Zhao, Y.F., 2023. A Case Study of Multifunctional Non-Pneumatic Tire Design For The Validation of Meta-Level Design Parameter In Domain Integrated Design (DID) Method. Proceedings of the Design Society, 3, pp.39-48.  DOI: 10.1017/pds.2023.5
-4. Velivela, P.T., Ridard, A. and Zhao, Y.F., 2024. Parameters for selecting biological features in multifunctional bio-inspired design: a convergent evolution approach. Bioinspiration & Biomimetics. DOI: 10.1088/1748-3190/ad3ed3
+2.  Velivela, P.T., Ridard, A. and Zhao, Y.F., 2024. Parameters for selecting biological features in multifunctional bio-inspired design: a convergent evolution approach. Bioinspiration & Biomimetics. DOI: 10.1088/1748-3190/ad3ed3
+3. Sarabhai S, Velivela PT, Zhao YF, Sanchez F, Kibsey M. Comparative Study of the Flow and Thermal Characteristics of Non-Stochastic Lattice and Bio-Inspired Multi-Scale Structures for Gas Turbine Engine Applications. InTurbo Expo: Power for Land, Sea, and Air 2023 Jun 26 (Vol. 87066, p. V11BT23A011). American Society of Mechanical Engineers. DOI: https://doi.org/10.1115/GT2023-103790
+4. Velivela, P.T., Letov, N., Kong, L. and Zhao, Y.F., 2023. A Case Study of Multifunctional Non-Pneumatic Tire Design For The Validation of Meta-Level Design Parameter In Domain Integrated Design (DID) Method. Proceedings of the Design Society, 3, pp.39-48.  DOI: 10.1017/pds.2023.5
 
 ##### Authors
 
