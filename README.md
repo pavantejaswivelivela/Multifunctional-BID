@@ -50,8 +50,6 @@ Integration of the geometries from these domains results in the generation of mu
 
 Meta-level design parameters are quantitative parameters that aid in the selection of biological features that have the same function and belong to the same domain. For example, sharkskin and dolphin skin exhibit the same function and belong to the same domain. Similarly, between pomelo’s peel and woodpecker’s beak that belong to the same domain.
 
-![image](https://github.com/pavantejaswivelivela/Multifunctional-BID/assets/48323444/f50ab48b-ee58-4c2c-9868-ff9dd0f192e0)
-
 ##### Related Publication
 
 1. Velivela, P.T., Ridard, A. and Zhao, Y.F., 2024. Parameters for selecting biological features in multifunctional bio-inspired design: a convergent evolution approach. Bioinspiration & Biomimetics. DOI: 10.1088/1748-3190/ad3ed3
@@ -60,9 +58,10 @@ Meta-level design parameters are quantitative parameters that aid in the selecti
 
 Based on the functional design requirements, biological features (multiscale structures) from different domains are combined to generate novel unique multifunctional, and multiscale bio-inspired conceptual designs.
 1. A combination of Kingfisher’s beak from the cross-sections domain and barbs on the porcupine quill from the Surfaces domain resulted in the generation of a painless suture pin/leg design.
-2.	A combination of Camel turbinates from the cross-section domain and micro-bumps on the Namib desert beetle from the surface domain resulted in the generation of structures for effective heat transfer and low-pressure drop potentially used in aerospace applications.
-3.	A combination of woodpecker’s beak and pomelo peel from the cellular structures domain and snakeskin from the domain of the surface resulted in the generation of a non-pneumatic tire design for effective impact resistance and friction management.
-4.	A combination of sharkskin and dolphin skin from the surface domain and honeycomb structure from the cellular structures domain resulted in the generation of skins for effective drag reduction and reduction in weight.
+2. 
+3.	A combination of Camel turbinates from the cross-section domain and micro-bumps on the Namib desert beetle from the surface domain resulted in the generation of structures for effective heat transfer and low-pressure drop potentially used in aerospace applications.
+4.	A combination of woodpecker’s beak and pomelo peel from the cellular structures domain and snakeskin from the domain of the surface resulted in the generation of a non-pneumatic tire design for effective impact resistance and friction management.
+5.	A combination of sharkskin and dolphin skin from the surface domain and honeycomb structure from the cellular structures domain resulted in the generation of skins for effective drag reduction and reduction in weight.
 
 <figure>
     <img src="Image-5.png"
