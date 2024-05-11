@@ -56,7 +56,8 @@ Meta-level design parameters are quantitative parameters that aid in the selecti
 
 ### How does this work?
 
-Based on the functional design requirements, biological features (multiscale structures) from different domains are combined to generate novel unique multifunctional, and multiscale bio-inspired conceptual designs.
+Based on the functional design requirements, biological features (multiscale structures) from different domains are combined to generate novel unique multifunctional, and multiscale bio-inspired conceptual designs. Following are the novel designs developed using the DID method.
+
 1. A combination of Kingfisher’s beak from the cross-sections domain and barbs on the porcupine quill from the Surfaces domain resulted in the generation of a painless suture pin/leg design.
 2. A combination of sharkskin and dolphin skin from the surface domain and honeycomb structure from the cellular structures domain resulted in the generation of skins for effective drag reduction and reduction in weight.
 3.	A combination of Camel turbinates from the cross-section domain and micro-bumps on the Namib desert beetle from the surface domain resulted in the generation of structures for effective heat transfer and low-pressure drop potentially used in aerospace applications.
