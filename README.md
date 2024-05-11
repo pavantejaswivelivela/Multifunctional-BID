@@ -43,7 +43,7 @@ Integration of the geometries from these domains results in the generation of mu
 
 ##### Related Publications
 
-1. Velivela, P.T. and Zhao, Y.F., 2022. A Comparative Analysis of the State-of-the-Art Methods for Multifunctional Bio-Inspired Design and an Introduction to Domain Integrated Design (DID). Designs, 6(6), p.120.
+1. Velivela, P.T. and Zhao, Y.F., 2022. A Comparative Analysis of the State-of-the-Art Methods for Multifunctional Bio-Inspired Design and an Introduction to Domain Integrated Design (DID). Designs, 6(6), p.120.  DOI: https://doi.org/10.3390/designs6060120 
 2. Velivela, P.T. and Zhao, Y.F., 2023. Supporting Multifunctional Bio-Inspired Design Concept Generation through Case-Based Expandable Domain Integrated Design (xDID) Model. Designs, 7(4), p.86.  DOI: https://doi.org/10.3390/designs7040086 
 
 ### Meta-level design parameters
@@ -62,6 +62,8 @@ Based on the functional design requirements, biological features (multiscale str
 2. A combination of sharkskin and dolphin skin from the surface domain and honeycomb structure from the cellular structures domain resulted in the generation of skins for effective drag reduction and reduction in weight.
 3.	A combination of Camel turbinates from the cross-section domain and micro-bumps on the Namib desert beetle from the surface domain resulted in the generation of structures for effective heat transfer and low-pressure drop potentially used in aerospace applications.
 4.	A combination of woodpecker’s beak and pomelo peel from the cellular structures domain and snakeskin from the domain of the surface resulted in the generation of a non-pneumatic tire design for effective impact resistance and friction management.
+
+More detailed information about the designs can be accessed via the author's portfolio: (<https://sites.google.com/view/pavantejaswivelivela>)
 
 <figure>
     <img src="Image-5.png"
@@ -86,8 +88,9 @@ This research work is supported by the Natural Sciences and Engineering Research
   
 ##### Contact
 
-- For all queries related to the publications and potential collaborations contact: Prof. Yaoyao Fiona Zhao (Email: <yaoyao.zhao@mcgill.ca> or Visit Additive Design and Manufacturing Laboratory (ADML) <https://adml.lab.mcgill.ca/>
-- Pavan Tejaswi Velivela (Email: <pavan.velivela@mail.mcgill.ca>; <pavan.velivela90@gmail.com>)
+- Corresponding Author: Prof. Yaoyao Fiona Zhao, Director Additive Design and Manufacturing Laboratory (ADML) (Email: <yaoyao.zhao@mcgill.ca>  
+- Author: Pavan Tejaswi Velivela (Email: <pavan.velivela@mail.mcgill.ca>; <pavan.velivela90@gmail.com>) and Personal Portfolio: (<https://sites.google.com/view/pavantejaswivelivela>)
+- For more information: visit Additive Design and Manufacturing Laboratory (ADML) <https://adml.lab.mcgill.ca/>
 
 
 <h5> &copy; 2024 Pavan Tejaswi Velivela. All rights reserved </h5>
