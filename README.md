@@ -7,6 +7,7 @@
 5. **Verification**: Generation of unique multifunctional bio-inspired conceptual designs for verification of the system.
 
 ### BIKAS
+### Online interactive web application: [BIKAS](https://bikas.onrender.com/)
 
 BIKAS abbreviated as Bio-inspired Knowledge Acquisition and Simulacrum is a knowledge database developed to represent functions exhibited by biological features at their **embodiment-level** i.e. at their physical structure level. The function exhibited by the biological features is defined as a combination of integrated structure and structural strategy. Where the integrated structure here is defined as the multiscale structure.
 
@@ -63,7 +64,7 @@ Based on the functional design requirements, biological features (multiscale str
 3.	A combination of Camel turbinates from the cross-section domain and micro-bumps on the Namib desert beetle from the surface domain resulted in the generation of structures for effective heat transfer and low-pressure drop potentially used in aerospace applications.
 4.	A combination of woodpecker’s beak and pomelo peel from the cellular structures domain and snakeskin from the domain of the surface resulted in the generation of a non-pneumatic tire design for effective impact resistance and friction management.
 
-More detailed information about the designs can be accessed via the author's portfolio: (<https://sites.google.com/view/pavantejaswivelivela>)
+More detailed information about the designs can be accessed via the author's [portfolio](https://sites.google.com/view/pavantejaswivelivela)
 
 <figure>
     <img src="Image-5.png"
