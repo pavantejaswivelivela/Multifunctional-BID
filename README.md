@@ -91,7 +91,7 @@ This research work is supported by the Natural Sciences and Engineering Research
 
 - Corresponding Author: Prof. Yaoyao Fiona Zhao, Director Additive Design and Manufacturing Laboratory (ADML) (Email: <yaoyao.zhao@mcgill.ca>  
 - Author: Pavan Tejaswi Velivela (Email: <pavan.velivela@mail.mcgill.ca>; <pavan.velivela90@gmail.com>) and [Personal Portfolio](https://sites.google.com/view/pavantejaswivelivela)
-- For more information: visit Additive Design and Manufacturing Laboratory (ADML) <https://adml.lab.mcgill.ca/>
+- For more information: visit Additive Design and Manufacturing Laboratory [ADML](https://adml.lab.mcgill.ca/)
 
 
 <h5> &copy; 2024 Pavan Tejaswi Velivela. All rights reserved </h5>
